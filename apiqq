@@ -1,0 +1,8 @@
+{
+  "ctype": "Username",
+  "cvalue": "your username",
+  "password": "your password",
+  "captchaId": "",
+  "captchaToken": "your token that was printed in the console",
+  "captchaProvider": "PROVIDER_ARKOSE_LABS"
+}
